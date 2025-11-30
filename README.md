@@ -56,5 +56,3 @@ Based on the data, the following actions were recommended to stakeholders:
 * **Inventory Clearance:** Implement clearance strategies for the **$2.71M** in unsold stock to free up working capital.
 * **Leverage Bulk Buying:** Standardize "Large" order sizes where storage permits to capitalize on the **72% unit cost reduction**.
 
----
-*This project demonstrates the ability to translate raw data into actionable business strategies using statistical rigor and visualization.*
